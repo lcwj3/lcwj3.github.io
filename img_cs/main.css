@@ -61,13 +61,9 @@ div.footer{
         height: 225px;
 }
 
-ul {
-        font-size: 1.3rem;
-        padding-left: 2.5em;
-        padding-right: 1.5em;
+p.compact-list {
+        margin: 0;
+        line-height: 1.4;
 }
-ul li {
-        font-size: 1.3rem;
-        line-height: 120%;
-}
+
 
