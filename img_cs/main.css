@@ -61,8 +61,13 @@ div.footer{
         height: 225px;
 }
 
-ul li{
-        font-size:18px;
-        font-weight: bold;
+ul {
+        font-size: 1.3rem;
+        padding-left: 2.5em;
+        padding-right: 1.5em;
+}
+ul li {
+        font-size: 1.3rem;
+        line-height: 120%;
 }
 
